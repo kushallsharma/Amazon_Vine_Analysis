@@ -56,6 +56,7 @@ Percentage of 5-star non-vine reviews:	52%
 
 ## Summary
 
+
 On analysing final results of the analysis, it shows that there is no positivity bias in reviewing watches as the percentage of 5-Star reviews given by vine member is lesser when compared to non-vine members’ reviews. 
 
 
